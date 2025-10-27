@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GalleryApp-ReactJs/static/css/main.3989f8ce.chunk.css",
+    "main.js": "/GalleryApp-ReactJs/static/js/main.ae1d67c6.chunk.js",
+    "main.js.map": "/GalleryApp-ReactJs/static/js/main.ae1d67c6.chunk.js.map",
+    "runtime-main.js": "/GalleryApp-ReactJs/static/js/runtime-main.5b795dcb.js",
+    "runtime-main.js.map": "/GalleryApp-ReactJs/static/js/runtime-main.5b795dcb.js.map",
+    "static/js/2.ecf43e14.chunk.js": "/GalleryApp-ReactJs/static/js/2.ecf43e14.chunk.js",
+    "static/js/2.ecf43e14.chunk.js.map": "/GalleryApp-ReactJs/static/js/2.ecf43e14.chunk.js.map",
+    "index.html": "/GalleryApp-ReactJs/index.html",
+    "static/css/main.3989f8ce.chunk.css.map": "/GalleryApp-ReactJs/static/css/main.3989f8ce.chunk.css.map",
+    "static/js/2.ecf43e14.chunk.js.LICENSE.txt": "/GalleryApp-ReactJs/static/js/2.ecf43e14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b795dcb.js",
+    "static/js/2.ecf43e14.chunk.js",
+    "static/css/main.3989f8ce.chunk.css",
+    "static/js/main.ae1d67c6.chunk.js"
+  ]
+}
